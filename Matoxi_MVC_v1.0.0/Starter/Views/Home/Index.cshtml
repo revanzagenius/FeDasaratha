@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+    ViewBag.pTitle = "eCommerce";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+    @section scripts {
+        <script src="~/assets/plugins/apexchart/apexcharts.min.js"></script>
+        <script src="~/assets/js/index.js"></script>
+        <script src="~/assets/plugins/peity/jquery.peity.min.js"></script>
+        <script>
+        $(".data-attributes span").peity("donut")
+        </script>
+    }

@@ -1,0 +1,18 @@
+CRITICAL - 2024-07-18 09:16:01 --> Uncaught Error: Call to undefined method CodeIgniter\Debug\Exceptions::include() in D:\Matoxi\Matoxi_CI_v1.0.0\Starter\app\Views\errors\html\error_404.php:1
+Stack trace:
+#0 D:\Matoxi\Matoxi_CI_v1.0.0\Starter\system\Debug\Exceptions.php(282): include()
+#1 D:\Matoxi\Matoxi_CI_v1.0.0\Starter\system\Debug\Exceptions.php(285): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#2 D:\Matoxi\Matoxi_CI_v1.0.0\Starter\system\Debug\Exceptions.php(156): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Exceptions\PageNotFoundException), 404)
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#4 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\PageNotFoundException
+Page Not Found
+#0 D:\Matoxi\Matoxi_CI_v1.0.0\Starter\system\CodeIgniter.php(991): CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound(NULL)
+#1 D:\Matoxi\Matoxi_CI_v1.0.0\Starter\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\Matoxi\Matoxi_CI_v1.0.0\Starter\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#3 D:\Matoxi\Matoxi_CI_v1.0.0\Starter\system\Commands\Server\rewrite.php(47): require_once('D:\\Matoxi\\Matox...')
+#4 {main}
+in APPPATH\Views\errors\html\error_404.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

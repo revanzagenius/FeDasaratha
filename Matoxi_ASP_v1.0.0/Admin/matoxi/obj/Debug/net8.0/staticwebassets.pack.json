@@ -1,0 +1,1065 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\matoxi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\matoxi.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\css\\extra-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\extra-icons.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\08.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\09.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\10.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\11.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\12.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\13.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\14.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\15.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\16.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\17.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\18.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\19.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\apps\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\20.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\bg-forgot.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\bg-forgot.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\bg-login.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\bg-login.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\bg-register.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\bg-register.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\bg-reset-password.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\bg-reset-password.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\error-bg.jpg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\error-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\error-bg.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\forgot-password1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\forgot-password1.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\login1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\login1.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\register1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\register1.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\auth\\reset-password1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\reset-password1.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\08.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\09.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\10.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\11.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\avatars\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\12.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\08.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\09.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\10.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\11.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\12.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\13.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\14.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\15.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\16.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\17.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\18.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\19.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\20.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\21.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\carousels\\22.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\22.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\cat\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\cat\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\cat\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\cat\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\cat\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\cat\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\county\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\08.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\08.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\09.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\10.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\11.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\12.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\megaIcons\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\13.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\08.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\orders\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\09.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\projects\\angular.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\angular.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\projects\\bootstrap.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\bootstrap.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\projects\\django.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\django.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\projects\\magento.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\magento.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\projects\\python.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\python.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\projects\\react.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\react.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\projects\\vue.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\vue.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\top-products\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\01.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\top-products\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\02.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\top-products\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\03.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\top-products\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\04.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\top-products\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\05.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\top-products\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\06.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\images\\top-products\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\07.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\apexchart\\apex-custom-chart.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexchart\\apex-custom-chart.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\apexchart\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexchart\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\apexchart\\data-cards.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexchart\\data-cards.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\css\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\custom.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\index.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\js\\index.spec.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\index.spec.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\js\\listeners.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\listeners.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\polyfill.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\bs-stepper\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\util.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fullcalendar\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fullcalendar\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\metismenu\\mm-vertical.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\mm-vertical.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\css\\lobibox.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\css\\lobibox.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\6.jpg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\js\\lobibox.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\lobibox.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\js\\messageboxes.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\messageboxes.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\js\\messageboxes.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\messageboxes.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notifications.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound1.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound1.ogg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound2.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound2.ogg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound3.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound3.ogg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound4.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound4.ogg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound5.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound5.ogg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound6.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound6.ogg"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\blue-theme.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\blue-theme.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\blue-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\blue-theme.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\blue-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\blue-theme.scss"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\bordered-theme.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\bordered-theme.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\bordered-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\bordered-theme.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\bordered-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\bordered-theme.scss"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\dark-theme.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\dark-theme.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\dark-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\dark-theme.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\dark-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\dark-theme.scss"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\main.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\responsive.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\responsive.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\responsive.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\responsive.scss"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\semi-dark.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\semi-dark.css"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\semi-dark.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\semi-dark.css.map"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\assets\\sass\\semi-dark.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\semi-dark.scss"
+    },
+    {
+      "Id": "D:\\Matoxi\\matoxi\\matoxi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.matoxi.props",
+      "PackagePath": "build\\matoxi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.matoxi.props",
+      "PackagePath": "buildMultiTargeting\\matoxi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.matoxi.props",
+      "PackagePath": "buildTransitive\\matoxi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.matoxi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

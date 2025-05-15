@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|d:\\matoxi\\matoxi_mvc_v1.0.0\\starter\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|solutionrelative:controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\views\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|solutionrelative:views\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4B818B-CBA5-4053-8C75-B06D4D0A5B4E}|mvc.csproj|solutionrelative:views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:31:38.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Views\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Views\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Views\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:30:02.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagesController.cs",
+              "ToolTip": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "Controllers\\PagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:28:50.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sidebar.cshtml",
+              "DocumentMoniker": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Views\\Shared\\Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Sidebar.cshtml",
+              "ToolTip": "D:\\Matoxi\\Matoxi_MVC_v1.0.0\\Starter\\Views\\Shared\\Sidebar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Sidebar.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:25:55.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
